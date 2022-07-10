@@ -3,8 +3,6 @@ package com.andersonjunior.todolistspring.services;
 import com.andersonjunior.todolistspring.models.Task;
 import com.andersonjunior.todolistspring.repository.TaskRepository;
 import lombok.AllArgsConstructor;
-import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
